@@ -74,10 +74,18 @@ h1{
     width: 50%;
     padding-left: 2%;
     margin: 40px;
+    border-radius: 10px;
+    border-left: 5px solid orangered;
 }
 .item{
     box-shadow: 10px 10px 40px grey;
     width: 50%;
     padding-left: 2%;
     margin: 40px;
+    border-radius: 10px;
+    border-left: 5px solid orangered;
+}
+
+footer p{
+    text-align: center;
 }
